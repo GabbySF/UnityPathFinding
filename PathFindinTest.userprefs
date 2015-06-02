@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnitBehavior.cs">
+    <Files>
+      <File FileName="Assets/UnitBehavior.cs" Line="42" Column="1" />
+      <File FileName="Assets/GuiScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/NetworkSpawnerServer.cs" Line="24" Column="9" />
+      <File FileName="Assets/NetworkSpawnerClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/uLink/Utility Scripts/uLinkSimpleServer.cs" Line="68" Column="2" />
+      <File FileName="Assets/Plugins/uLink/Utility Scripts/uLinkClientGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/uLink/Utility Scripts/uLinkSmoothCharacter.cs" Line="85" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
